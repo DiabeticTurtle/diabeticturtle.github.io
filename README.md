@@ -1,1 +1,1 @@
-[wow}(https://diabeticturtle.github.io
+[wow](https://diabeticturtle.github.io)
