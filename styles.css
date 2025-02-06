@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+.bg {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+}
